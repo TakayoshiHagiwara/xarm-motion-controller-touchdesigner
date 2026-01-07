@@ -100,7 +100,7 @@ xarm-motion-controller-touchdesigner/
 必ずSimulated Robotで確認してから実際のロボットを動かしてください。
 
 1. xArmController.toeを実行します
-2. hostにxArmのIPアドレスを指定します
+2. Host IP AddressにxArmのIPアドレスを指定します
 3. Connect xArmボタンを押下します
     - xArm Gripperを使用する場合はトグルをOnにします
     - 接続中はブロッキングします
@@ -183,6 +183,7 @@ xを30にした場合、**初期位置から+x方向に30mm移動します**。
 
 # Versions
 - 1.0.0: 2025/8/8
+- 1.0.1: 2026/1/7
 
 
 # Author
