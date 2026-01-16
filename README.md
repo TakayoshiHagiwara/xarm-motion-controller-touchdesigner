@@ -3,6 +3,8 @@
 
 [UFACTORY Inc.](https://www.ufactory.us/)が販売しているxArmをTouchDesignerから制御するためのサンプルです。
 
+**適宜バグの修正を行っているため、[Releases](https://github.com/TakayoshiHagiwara/xarm-motion-controller-touchdesigner/releases)から最新版をご利用ください。**
+
 # Table Of Contents <!-- omit in toc -->
 <details>
 <summary>Details</summary>
@@ -188,6 +190,8 @@ xを30にした場合、**初期位置から+x方向に30mm移動します**。
 # Versions
 - 1.0.0: 2025/8/8
 - 1.0.1: 2026/1/7
+- 1.0.2: 2026/1/16
+  - CHOPから座標データを参照する部分のバグを修正
 
 
 # Author
